@@ -6,6 +6,7 @@ from sklearn.metrics import mean_squared_error, explained_variance_score
 from sklearn import preprocessing
 
 import matplotlib.pyplot as plt
+import pandas as pd
 
 
 OriginData = pd.read_excel(r'C:\Users\ZhiYong\Desktop\UCStest.xlsx')
